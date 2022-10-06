@@ -1,0 +1,1 @@
+[{"type":"constructor","payable":false,"inputs":[]},{"type":"function","name":"getTotalWaves","constant":true,"stateMutability":"view","payable":false,"gas":29000000,"inputs":[],"outputs":[{"type":"uint256"}]},{"type":"function","name":"wave","constant":false,"payable":false,"gas":29000000,"inputs":[],"outputs":[]}]
