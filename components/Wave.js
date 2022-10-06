@@ -67,6 +67,7 @@ export default function Wave() {
   async function OnSuccess(tx) {
     tx.wait(1);
     handleNotification("success", "Hi There");
+    UpdateUI();
   }
 
   async function OnError(error) {
